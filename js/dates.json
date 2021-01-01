@@ -1,0 +1,20 @@
+{
+    - results: [
+        - {
+            _id: "587f",
+            calle: "Av. Adolfo Lopez Mateos",
+            rfc: "DGA",
+            regular: "15.72",
+            longitude: "-106.4514",
+            latitude: "31.71947"
+        },
+        - {
+            _id: "587f",
+            calle: "Av. Adolfo Lopez Mateos",
+            rfc: "DGA",
+            regular: "15.72",
+            longitude: "-103.3042",
+            latitude: "20.71413"
+        },
+    ]
+}
